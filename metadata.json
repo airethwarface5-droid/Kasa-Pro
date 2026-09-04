@@ -1,0 +1,7 @@
+{
+  "name": "Касса и Склад POS",
+  "description": "Кассовая система для учета продаж, инвентаризации в реальном времени со сканированием штрихкодов, PDF отчетами и облачной синхронизацией.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
